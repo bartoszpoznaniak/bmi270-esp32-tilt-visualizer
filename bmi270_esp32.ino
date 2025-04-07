@@ -47,7 +47,7 @@ const char config_html[] PROGMEM = R"rawliteral(
     </style>
 </head>
 <body>
-    <h2>Konfiguracja WiFi</h2>
+    <h2>Konfiguracja WiFi ErgoHealth</h2>
     <form action="/save" method="post">
         <div class="form-group">
             <label for="ssid">Nazwa sieci (SSID):</label><br>
