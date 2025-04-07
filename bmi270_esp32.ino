@@ -243,7 +243,7 @@ bool loadWiFiConfig(char *ssid, char *password)
 void setup()
 {
   Serial.begin(115200);
-  Serial.println("BMI270 Example - Web Server v1.1130.33");
+  Serial.println("BMI270 Example - Web Server v1.1130.34");
 
   // Inicjalizacja I2C
   Wire.begin();
